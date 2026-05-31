@@ -1,7 +1,9 @@
+// main.ts
+
 /**
- * Grove PIR Bewegungssensor Erweiterung
+ * Grove Ultrasonic Ranger Erweiterung
  */
-//% color=#ff6b35 icon="\uf06e" block="PIR Sensor MG"
+//% color=#8f3fd1 icon="\uf20e" block="Ultraschall MG"
 //% groups=['Grundfunktionen', 'Erweiterungen']
 namespace pirsensor {
 
